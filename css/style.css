@@ -1010,6 +1010,9 @@ pre .copy-to-clipboard {
   color: #222;
 }
 
+.ityped{
+  font-size: 50px;
+}
 /* windows view */
 @media (min-width: 991px) {
   .home-card-height{
@@ -1060,6 +1063,9 @@ pre .copy-to-clipboard {
   .laptop-web-slider{
     margin: 0px 34px;
     width: 72%;
+  }
+  .ityped{
+    font-size: 36px;
   }
   
 }
